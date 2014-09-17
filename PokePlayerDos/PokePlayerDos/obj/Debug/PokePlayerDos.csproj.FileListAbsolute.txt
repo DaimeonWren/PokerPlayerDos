@@ -1,0 +1,6 @@
+c:\users\technologist sp\documents\GitHub\PokerPlayerDos\PokePlayerDos\PokePlayerDos\bin\Debug\PokePlayerDos.exe.config
+c:\users\technologist sp\documents\GitHub\PokerPlayerDos\PokePlayerDos\PokePlayerDos\obj\Debug\PokePlayerDos.csprojResolveAssemblyReference.cache
+c:\users\technologist sp\documents\GitHub\PokerPlayerDos\PokePlayerDos\PokePlayerDos\bin\Debug\PokePlayerDos.exe
+c:\users\technologist sp\documents\GitHub\PokerPlayerDos\PokePlayerDos\PokePlayerDos\bin\Debug\PokePlayerDos.pdb
+c:\users\technologist sp\documents\GitHub\PokerPlayerDos\PokePlayerDos\PokePlayerDos\obj\Debug\PokePlayerDos.exe
+c:\users\technologist sp\documents\GitHub\PokerPlayerDos\PokePlayerDos\PokePlayerDos\obj\Debug\PokePlayerDos.pdb
