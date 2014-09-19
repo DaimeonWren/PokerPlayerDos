@@ -58,5 +58,17 @@ namespace PokePlayerDos
         {
             Console.WriteLine(string.Join("\n", this.Cards.Select(x => x.GetCardString())));
         }
+        public List<Card> Deal(int numberOfCards)
+        {
+            List<Card> hand = new List<Card>();
+            for (int i = 0; i < numberOfCards; i++)
+            {
+                hand.Add(Cards.Last());
+                DealtCards.Add(Cards.Last());
+                Cards.Remove(Cards.Last());
+            }
+            return hand;
+        }
+
     }
 }

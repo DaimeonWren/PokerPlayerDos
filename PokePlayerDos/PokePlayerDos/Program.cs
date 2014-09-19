@@ -30,7 +30,7 @@ namespace PokePlayerDos
             deck.Shuffle();
             Console.WriteLine("\nSHUFFLED\n");
             deck.PrintDeck();
-
+            PokerPlayer();
            
 
 
